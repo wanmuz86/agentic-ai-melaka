@@ -1,0 +1,6 @@
+Cooling System SOP
+
+1. Stop machine operation immediately.
+2. Inspect cooling fan and ventilation system.
+3. Check coolant levels and temperature sensors.
+4. Restart machine only after inspection approval.
